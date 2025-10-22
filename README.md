@@ -47,14 +47,13 @@ Clone the repository:
 git clone [https://github.com/YourUsername/gemini-cv-matcher.git](https://github.com/YourUsername/gemini-cv-matcher.git)
 cd gemini-cv-matcher
 
-
 Create and activate a virtual environment:
 
-# Windows
+### Windows
 python -m venv .venv
 .\.venv\Scripts\activate
 
-# macOS / Linux
+### macOS / Linux
 python3 -m venv .venv
 source .venv/bin/activate
 
